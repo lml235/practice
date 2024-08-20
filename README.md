@@ -1,5 +1,7 @@
 internet-sociology-paper.txt
-hurricanes-football-schedule.txt
-2022-travel-plans.txt
 distraction-article-september-2021.txt
+
+2022-travel-plans.txt
+
 fall-schedule.txt
+hurricanes-football-schedule.txt
